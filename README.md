@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nderipetergmailcom
+- 👋 Hi, I’m Nderipeter
 - 👀 I’m interested in coding and animation
 - 🌱 I’m currently learning on how to create an animation through coding
 - 💞️ I’m looking to collaborate on a project to create a program that can project my character in an animation like anime.
